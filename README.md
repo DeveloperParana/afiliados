@@ -33,13 +33,13 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 - Pelo menos 1 evento por mês;
 - Mínimo de 6 palestrantes nos últimos 6 meses (não queremos patrocinar cursos, e sim fazer com que as comunidades sejam estimuladas);
 - Quando enviada alguma verba para realização de eventos, a mesma deve ser utilizada exclusivamente para o coffee, caso tenha alguma sobra deste valor o mesmo deve ser devolvido;
-- Qualquer verba destinada para realização de eventos não pode ser destinada a comprar bebidas alcoólicas;
+- Qualquer verba destinada para realização de eventos provenientes deste programa não pode ser destinada a comprar bebidas alcoólicas;
 
 ## Requisitos
 
 - O evento ser sediado no estado do Paraná;
 - Ter no mínimo 5 encontros;
-- Ter 3 palestrantes distintos nesses 5 encontros;
+- Ter 5 palestrantes distintos nesses 5 encontros;
 - Cada encontro deve ter pelo menos 8 participantes;
 - [Seguir o manual de conduta do DevParaná;](https://github.com/DeveloperParana/conduta)
 
@@ -62,6 +62,21 @@ Público médio: 9
 Quantidade de palestrantes nos últimos 5 eventos: 4
 Fotos dos eventos realizados: <links>
 Contato no slack do DevParaná: zedoeventodeteste
+Nome dos palestrantes e título das palestras realizadas de 5 palestras realizadas nestes eventos:
+Título: Testando o intestável
+Palestrante: Zé do teste de eventos
+
+Título: Pratica de testes intestáveis
+Palestrante: Maria Testerina
+
+Título: Intestável o testando
+Palestrante: Joseph test
+
+Título: Como não testar
+Palestrante: Ana Testson
+
+Título: Go horse tests
+Palestrante: Beatriz Marreta do Teste
 ```
 
 Depois de submetido o pull request iremos analisar a candidatura em até 30 dias. Qualquer outra dúvida iremos interagir no pull request e entrar em contato pelo slack.
