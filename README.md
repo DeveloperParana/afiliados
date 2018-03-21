@@ -37,9 +37,11 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 
 ## Requisitos
 
-- 5 encontros;
-- 3 palestrantes distintos nesses 5 encontros;
+- O evento ser sediado no estado do Paraná;
+- Ter no mínimo 5 encontros;
+- Ter 3 palestrantes distintos nesses 5 encontros;
 - Cada encontro deve ter pelo menos 8 participantes;
+- [Seguir o manual de conduta do DevParaná;](https://github.com/DeveloperParana/conduta)
 
 ## Eventos participantes
 
@@ -61,3 +63,5 @@ Quantidade de palestrantes nos últimos 5 eventos: 4
 Fotos dos eventos realizados: <links>
 Contato no slack do DevParaná: zedoeventodeteste
 ```
+
+Depois de submetido o pull request iremos analisar a candidatura em até 30 dias. Qualquer outra dúvida iremos interagir no pull request e entrar em contato pelo slack.
