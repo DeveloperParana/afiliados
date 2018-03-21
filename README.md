@@ -65,3 +65,5 @@ Contato no slack do DevParaná: zedoeventodeteste
 ```
 
 Depois de submetido o pull request iremos analisar a candidatura em até 30 dias. Qualquer outra dúvida iremos interagir no pull request e entrar em contato pelo slack.
+
+Consideramos que a partir do momento que enviado o pull request os organizadores do evento estão em acordo com todas as regras do programa e estarão sujeitos a serem avaliados perante elas.
