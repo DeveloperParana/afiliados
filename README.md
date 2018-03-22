@@ -60,7 +60,7 @@ Público médio: 9
 Quantidade de palestrantes nos últimos 5 eventos: 4
 Fotos dos eventos realizados: <links>
 Contato no slack do DevParaná: zedoeventodeteste
-Nome dos palestrantes e título das palestras realizadas de 5 palestras realizadas nestes eventos:
+Nome dos palestrantes e título de 5 palestras realizadas nestes eventos:
 Título: Testando o intestável
 Palestrante: Zé do teste de eventos
 
