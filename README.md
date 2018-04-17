@@ -47,6 +47,7 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 
 - FEMUG Maringá [meetup.com/pt-BR/femugmga/](https://meetup.com/pt-BR/femugmga/)
 - BEMUG Maringá [meetup.com/pt-BR/developerparana/](https://www.meetup.com/pt-BR/developerparana/)
+- GDG Maringá [https://www.meetup.com/pt-BR/GDG-Maringa/](https://www.meetup.com/pt-BR/GDG-Maringa/)
 - (Colocar aqui os eventos)
 
 ## Como participar
