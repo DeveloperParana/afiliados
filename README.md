@@ -49,6 +49,7 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 - BEMUG Maringá [meetup.com/pt-BR/developerparana/](https://www.meetup.com/pt-BR/developerparana/)
 - GDG Maringá [meetup.com/pt-BR/GDG-Maringa/](https://www.meetup.com/pt-BR/GDG-Maringa/)
 - React Maringá [meetup.com/pt-BR/React-Maringa/](https://www.meetup.com/pt-BR/React-Maringa/)
+- GDG Toledo [meetup.com/pt-BR/GDG-Toledo-PR/](https://www.meetup.com/pt-BR/GDG-Toledo-PR/)
 
 ## Como participar
 
