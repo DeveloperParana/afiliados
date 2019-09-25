@@ -32,14 +32,14 @@ Delphi Ingá
 **Título:** Clean Code
 **Palestrante:** Francisco Almeida
 
-**Título:** Mock Everything
+**Título:** Testando código legado com Mock Everything
 **Palestrante:*** Lucas Schwendler	
 	
-**Título:** FastReports
+**Título:** FastReports para iniciantes
 **Palestrante:** Jocimar Abrantes
 
-**Título:** FireDac
+**Título:** FireDac - para além do CRUD
 **Palestrante:** André Celestino
 	
-**Título:** JSON
+**Título:** JSON - Não é aquela sexta-feira treze que você imagina
 **Palestrante:** Messias Bueno
