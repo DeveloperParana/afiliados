@@ -51,7 +51,6 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 - React Maringá [meetup.com/pt-BR/React-Maringa/](https://www.meetup.com/pt-BR/React-Maringa/)
 - GDG Toledo [meetup.com/pt-BR/GDG-Toledo-PR/](https://www.meetup.com/pt-BR/GDG-Toledo-PR/)
 - Maringá Agile [meetup.com/pt-BR/developerparana/](https://www.meetup.com/pt-BR/developerparana/)
-- IxDA Maringá [meetup.com/pt-BR/IxDAMaringa/](https://www.meetup.com/IxDAMaringa/)
 
 
 ## Como participar
