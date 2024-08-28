@@ -1,5 +1,8 @@
 # Manual de voluntariado
 
+O principal objetivo desse documento é que qualquer pessoa interessada em tornar-se voluntária e/ou já seja voluntária, possa tirar suas dúvidas e acessar os recursos disponívei sem depender de outras pessoas.
+Se você não encontrou o que procura nesse manual, é sua responsabilidade editar com a resposta que você procurava, assim estará ajudando a próxima pessoa.
+
 ## O que é o DevParaná
 
 O DevParaná é uma comunidade criada em Maringá no ano de 2015, com objetivo de conectar todas as pessoas do estado do Paraná que possuam interesse em desenvolvimento de software.
