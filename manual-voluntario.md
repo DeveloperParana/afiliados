@@ -1,4 +1,4 @@
-# Manual de voluntariado
+# Manual do voluntário
 
 O principal objetivo desse documento é que qualquer pessoa interessada em tornar-se voluntária e/ou já seja voluntária, possa tirar suas dúvidas e acessar os recursos disponívei sem depender de outras pessoas.
 Se você não encontrou o que procura nesse manual, é sua responsabilidade editar com a resposta que você procurava, assim estará ajudando a próxima pessoa.
