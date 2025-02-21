@@ -31,7 +31,9 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 ## Regras
 
 - Pelo menos 1 evento por mês;
+- Ter todos os eventos com inscrição aberta a toda comunidade;
 - Mínimo de 6 palestrantes nos últimos 6 meses (não queremos patrocinar cursos, e sim fazer com que as comunidades sejam estimuladas);
+- Ter pelo menos 3 lugares diferentes a cada 6 meses (não queremos que o meetup seja de um local);
 - Quando enviada alguma verba para realização de eventos, a mesma deve ser utilizada exclusivamente para o coffee, caso tenha alguma sobra deste valor o mesmo deve ser devolvido;
 - Qualquer verba destinada para realização de eventos provenientes deste programa não pode ser destinada a comprar bebidas alcoólicas;
 
