@@ -31,7 +31,8 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 ## Regras
 
 - Pelo menos 1 evento por mês;
-- Eventos podem ser pagos ou gratuitos, desde que tenha inscrição aberta a toda comunidade;
+- Todos os eventos devem ter inscrição aberta a toda comunidade;
+- Eventos que tenham custo de inscrição devem ter aprovação da coordenação do CODAQUI/DevParaná;
 - Mínimo de 6 palestrantes nos últimos 6 meses (não queremos patrocinar cursos, e sim fazer com que as comunidades sejam estimuladas);
 - Ter pelo menos 3 lugares diferentes a cada 6 meses (não queremos que o meetup seja de um local);
 - Quando enviada alguma verba para realização de eventos, a mesma deve ser utilizada exclusivamente para o coffee, caso tenha alguma sobra deste valor o mesmo deve ser devolvido;
