@@ -31,7 +31,12 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 ## Regras
 
 - Pelo menos 5 eventos por ano;
+- Todos os eventos devem ter inscrição aberta a toda comunidade;
+- Eventos que tenham custo de inscrição devem ter aprovação da coordenação do CODAQUI/DevParaná;
+- Deve respeitar o manual de identidade visual do DevParaná presente em https://github.com/DeveloperParana/brand-guide;
+- Deve ter pelo menos duas pessoas na coordenação;
 - Mínimo de 6 palestrantes nos últimos 6 meses (não queremos patrocinar cursos, e sim fazer com que as comunidades sejam estimuladas);
+- Ter pelo menos 3 lugares diferentes a cada 6 meses (não queremos que o meetup seja de um local);
 - Quando enviada alguma verba para realização de eventos, a mesma deve ser utilizada exclusivamente para o coffee, caso tenha alguma sobra deste valor o mesmo deve ser devolvido;
 - Qualquer verba destinada para realização de eventos provenientes deste programa não pode ser destinada a comprar bebidas alcoólicas;
 
