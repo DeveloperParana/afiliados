@@ -30,7 +30,7 @@ Os eventos serão divulgados nas redes sociais do DevParaná, assim como incluso
 
 ## Regras
 
-- Pelo menos 1 evento por mês;
+- Pelo menos 5 eventos por ano;
 - Todos os eventos devem ter inscrição aberta a toda comunidade;
 - Eventos que tenham custo de inscrição devem ter aprovação da coordenação do CODAQUI/DevParaná;
 - Deve respeitar o manual de identidade visual do DevParaná presente em https://github.com/DeveloperParana/brand-guide;
